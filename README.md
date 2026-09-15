@@ -1,3 +1,7 @@
+# Hi 👋, I'm Muhammad Ghani Al Fawwazi
+
+An active student at SMK Telkom Sidoarjo with an interest in networking and full-stack development.
+
 # 💫 About Me:
 🔭 I’m currently working on Full-stack web applications for school assessments and Samsung Innovation Campus projects<br>👯 I’m looking to collaborate on Network infrastructure, system administration, and cross-domain tech projects<br>🤝 I’m looking for help with Advanced Cloud Engineering and mastering Linux system administration<br>🌱 I’m currently learning Cloud Engineering (DTP Track), Linux OS, Computer Networking, and Full-Stack Development<br>💬 Ask me about Computer Networking, Network Fundamentals, and Web Development<br>⚡ Fun fact I used to dream of mastering every single technology field! When I'm not configuring networks or coding, you'll find me motorcycling on scenic tours.
 
