@@ -1,5 +1,4 @@
 # Hi 👋, I'm Muhammad Ghani Al Fawwazi
-
 An active student at SMK Telkom Sidoarjo with an interest in networking and full-stack development.
 
 # 💫 About Me:
